@@ -1,0 +1,50 @@
+body{
+    font-family: "Anuphan";
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+margin: auto;
+padding-left: 80px;
+padding-right: 80px;
+}
+
+.a{
+    display: flex;
+    flex-direction: row;
+    padding-top:0px;
+    
+}
+
+.b{
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+    justify-content: center;
+    font-weight: 30px;  
+}
+
+.img{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.c{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.ft{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: 23px;
+   
+}
+
+.fa-search{
+font-size: 20px;
+}
